@@ -1,0 +1,79 @@
+body {
+  background-color: #5c4084;
+  margin: 4rem;
+}
+
+.container {
+  padding: 1rem 5rem 1rem 1rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  width: 800px;
+  max-width: 45rem;
+  margin: 0 auto;
+}
+input[type=file] {
+  display: block; 
+  margin: 0 auto; 
+  width: 50%;
+  padding: 40px 0 0 10px;
+  height: 30px;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: url('https://png.pngtree.com/png-vector/20191129/ourmid/pngtree-image-upload-icon-photo-upload-icon-png-image_2047545.jpg') center center no-repeat #ffffff96;
+  border-radius: 10px;
+  background-size: 50px 50px;
+}
+
+
+input[type=submit] {
+  width: 140px;
+  height: 45px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+  color: #000;
+  background-color: #fff;
+  border: none;
+  border-radius: 45px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  outline: none;
+  }
+
+
+
+.imgupl {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  background: -webkit-linear-gradient(#fff, #999);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.btn.btn-primary {
+  background-color: #5c4084;
+  border-color: #5c4084;
+  outline: none;
+}
+.btn.btn-primary:hover {
+  background-color: #442f62;
+  border-color: #442f62;
+}
+.btn.btn-primary:active, .btn.btn-primary:focus {
+  background-color: #684895;
+  border-color: #684895;
+}/*# sourceMappingURL=ind2.css.map */
