@@ -14,7 +14,7 @@ The primary objective of this project is to develop a robust machine-learning mo
 
 We utilize two distinct datasets for training and evaluation purposes. The first dataset comprises approximately 7,100 brain images for Brain Tumour classification, while the second dataset consists of 5,000 images for Alzheimer's Disease classification. These datasets provide a diverse range of samples necessary for training a robust and generalizable model.
 
-- Brain Tumour Dataset: [Brain Tumour Dataset](https://drive.google.com/drive/folders/1QnkRvbciJ-ZWZngGtAUnReMA7J4wIJ1v?usp=sharing)
+- Brain Tumour Dataset: [Brain Tumour Dataset](https://drive.google.com/drive/folders/1t8BV-5Q8mCtWNWd0uYWjnuCv1ViDtuqP)
 
 
 ### Model Architecture
